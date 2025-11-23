@@ -1,0 +1,18 @@
+@media screen and (max-width: 600px){
+  body{
+min-height: 100vh;
+margin: 0;
+background: #f4f4f4;
+  }
+  .continar {
+   max-width: 100%;
+    padding: 15px;
+   margin:120px 100px;
+  }
+  h1 {
+    font-size: 30px;
+  }
+  button, input {
+    font-size: 2rem;
+}
+}
