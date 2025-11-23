@@ -56,9 +56,11 @@ border:transparent;
     justify-content: space-evenly;
     align-items: center;
    border-bottom:2px #96949486 solid;
-    width: 400px;
+    max-width: 100%;
+   word-wrap: break-word;
+   overflow-wrap:break-word;
     position: relative;
-    left:40px;
+ 
     margin-top:75px;
 }
 h3{
